@@ -3,7 +3,7 @@ class Cat:
     tail = True
     legs = 0
     def cat_says():
-        print("Meow")
+        print("Meow.")
 
 bubbs = Cat
 bubbs.colour = "Black"
